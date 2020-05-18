@@ -3,6 +3,7 @@
   "displayName": "RDF Prefix Complete",
   "description": "Autocompletion and suggestion for RDF prefixes",
   "version": "0.0.1",
+  "publisher": "charlesvardeman",
   "engines": {
     "vscode": "^1.33.0"
   },
